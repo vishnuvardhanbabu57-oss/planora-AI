@@ -1,0 +1,4 @@
+project_id = "planora_ai"
+
+[functions.plan-assistant]
+verify_jwt = true
